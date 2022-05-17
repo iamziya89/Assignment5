@@ -1,0 +1,28 @@
+table{ 
+    border: 2px solid black; 
+    border-collapse: collapse; 
+} 
+th{ 
+    border: 2px solid black; 
+    text-align: center; 
+    padding: 8px; 
+} 
+td{ 
+    border: 2px solid black; 
+    text-align: center; 
+    padding: 8px; 
+} 
+thead{ 
+    background-color: green; 
+    color: white; 
+} 
+tfoot{ 
+    background-color:greenyellow; 
+    color: white; 
+} 
+.row12{ 
+    background-color:yellow; 
+} 
+.tab{ 
+    background-color:red; 
+}
